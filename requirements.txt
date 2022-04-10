@@ -1,0 +1,8 @@
+tweepy
+configparser
+pandas
+python-dotenv
+nltk
+pyspark
+findspark
+
